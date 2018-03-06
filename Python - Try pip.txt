@@ -1,0 +1,14 @@
+pip install - Install packages onto the computer
+
+pip list - Lists all installed packages on the computer
+
+running install again outputs - Requirement already satisfied (indicating that the package is already installed on the computer)
+
+pip freeze - Outputs installed packages in requirements format (the format needed to input in command prompt)
+	-running with requirements.txt attached makes a text file with the same info as a default freeze command inside.
+
+pip uninstall - uninstall packages but asks for confirmation first y/n.
+
+pip show - Show information about installed packages
+
+pip search - searches PyPI for packages with the keyword (Flask)
